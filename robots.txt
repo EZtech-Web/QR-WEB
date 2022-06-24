@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /cgi-bin
+
+Sitemap: https://www.qr-web.net/sitemap.xml
